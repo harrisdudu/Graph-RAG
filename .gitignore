@@ -20,4 +20,8 @@ rad.json
 *.flf
 #Test results file
 .trae\documents
- 
+
+# Model files
+backend/model/local_models/
+backend/data/knowledge_base.db
+temp/
